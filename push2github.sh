@@ -4,7 +4,7 @@
 msg=$1
 
 if [ -z "$msg" ]; then
-  exit
+  msg="garbage"
 fi
 
 
