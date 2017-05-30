@@ -1,4 +1,4 @@
-#A Scalable Instruction Queue Design Using Dependence Chains [ISCA 2002]
+..*A Scalable Instruction Queue Design Using Dependence Chains [ISCA 2002]
   
 
 
